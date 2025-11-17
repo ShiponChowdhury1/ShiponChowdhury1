@@ -22,3 +22,12 @@
 [![](https://visitcount.itsvg.in/api?id=SShipon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikram-Akbar&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true"/>
+</a>
+
+</div>
