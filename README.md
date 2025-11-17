@@ -28,19 +28,19 @@
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=Ikram-Akbar&label=Profile%20Visitors&color=0&icon=7&pretty=true)
+![](https://visitcount.itsvg.in/api?id=ShiponChowdhury1&label=Profile%20Visitors&color=0&icon=7&pretty=true)
 
-<a href="https://github.com/Ikram-Akbar?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ikram-Akbar&show_icons=true&hide_title=false&count_private=true&theme=transparent&border_color=0C77FF" width="45%" alt="@Ikram-Akbar's GitHub stats">
+<a href="https://github.com/ShiponChowdhury1?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShiponChowdhury1&show_icons=true&hide_title=false&count_private=true&theme=transparent&border_color=0C77FF" width="45%" alt="@ShiponChowdhury1's GitHub stats">
 </a>
 
-<a href="https://github.com/Ikram-Akbar?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikram-Akbar&hide_border=false&theme=transparent&border=0C77FF" width="45%" alt="@Ikram-Akbar's GitHub streak stats">
+<a href="https://github.com/ShiponChowdhury1?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiponChowdhury1&hide_border=false&theme=transparent&border=0C77FF" width="45%" alt="@ShiponChowdhury1's GitHub streak stats">
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Akbar&layout=compact&hide_title=false&theme=transparent&border_color=0C77FF" width="30%" alt="@Ikram-Akbar's top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiponChowdhury1&layout=compact&hide_title=false&theme=transparent&border_color=0C77FF" width="30%" alt="@ShiponChowdhury1's top languages">
 
-![](https://github-profile-trophy.vercel.app/?username=Ikram-Akbar&theme=algolia&no-bg=true&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=ShiponChowdhury1&theme=algolia&no-bg=true&no-frame=true)
 
 </div>
 
@@ -50,7 +50,7 @@
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikram-Akbar&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiponChowdhury1&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true"/>
 </a>
 
 </div>
