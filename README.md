@@ -3,7 +3,7 @@
 
 ![Mern stact developer](https://res.cloudinary.com/dtybjrjc8/image/upload/v1746433099/Sh_Shipon_4_bz3xd0.png)
 
-## MERN Stack Developer
+## Junior JavaScript / React.js Engineer
 
  I’m Shipon — a full-stack developer with 2+ years of experience. I build fast, modern, and SEO-friendly websites using JavaScript, TypeScript, React.js, Next.js, Astro.js, Node.js, MongoDB, Tailwind CSS, and Material UI. Clean code, responsive design, and smooth performance — that’s what I deliver. Let’s build something awesome!
 
@@ -18,17 +18,17 @@
 ## 🚀 Skills & Tools
 
 ### 👨‍💻 Languages
-| C | C++ | JavaScript | TypeScript | C# |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"/> |
+ | JavaScript | TypeScript | Golang
+|:-:|:-:|:-:| 
+ | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="55"/>
 
 ### 🌐 Web Development
-| React JS | React Bootstrap | TailwindCSS | Angular JS | Firebase |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55" height="55"/> |
+| React JS | Next JS | Redux | Node Js | Express Js | MongoDB |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55"/>
 
 ### 🛠️ Tools & Technologies
-| Git | GitHub | VS Code | Firebase Authentication & Firestore |
+| Git | GitHub | VS Code | Firebase |
 |:-:|:-:|:-:|:-:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55" height="55"/> |
 
