@@ -3,7 +3,7 @@
 
 ![Mern stact developer](https://res.cloudinary.com/dau8sazoh/image/upload/v1788768732/skills_j87blm.png)
 
-## JavaScript / React.js Engineer
+## JavaScript Engineer
 
 I am Full Stack Developer with 2.5 years of hands-on experience building real-world web applications using Next.js, TypeScript, Node.js/Express, and MongoDB. Experienced in developing responsive dashboards, landing pages, and scalable SaaS platforms with authentication and admin features. Strong in API integration, state management, and performance optimization. Looking for a Junior Full Stack Developer role to grow and contribute to a professional team.
 
