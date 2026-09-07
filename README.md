@@ -5,7 +5,7 @@
 
 ## Junior JavaScript / React.js Engineer
 
- I’m Shipon — a full-stack developer with 3+ years of experience. I build fast, modern, and SEO-friendly websites using JavaScript, TypeScript, React.js, Next.js, Astro.js, Node.js, MongoDB, Tailwind CSS, and Material UI. Clean code, responsive design, and smooth performance — that’s what I deliver. Let’s build something awesome!
+Junior Full Stack Developer with 2.5 years of hands-on experience building real-world web applications using Next.js, TypeScript, Node.js/Express, and MongoDB. Experienced in developing responsive dashboards, landing pages, and scalable SaaS platforms with authentication and admin features. Strong in API integration, state management, and performance optimization. Looking for a Junior Full Stack Developer role to grow and contribute to a professional team.
 
 
 ## 🌐 Socials:
