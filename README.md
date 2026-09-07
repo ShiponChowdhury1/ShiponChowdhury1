@@ -1,7 +1,7 @@
 
 
 
-![Mern stact developer](https://res.cloudinary.com/dtybjrjc8/image/upload/v1746433099/Sh_Shipon_4_bz3xd0.png)
+![Mern stact developer](https://res.cloudinary.com/dau8sazoh/image/upload/v1788768732/skills_j87blm.png)
 
 ## Junior JavaScript / React.js Engineer
 
